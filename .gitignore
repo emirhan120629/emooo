@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.opensdf
+*.sdf
